@@ -14,9 +14,6 @@ with a focus on
 
 <p><em>Research-driven · Socially grounded · Reproducible</em></p>
 
-
-
-
 ## Publication
 **ClimateNet** — Multi-Faceted Climate Discourse Classification  
 *IEEE R10 HTC 2025* (Accepted)
